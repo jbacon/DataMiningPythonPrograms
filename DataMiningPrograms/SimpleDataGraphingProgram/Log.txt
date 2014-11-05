@@ -1,0 +1,18 @@
+Log Notes:
+--Not many issues experienced with generating the charts.
+--We used anaconda and Spyder IDE with the libraries pre-installed, 
+	which made things much easier.
+--We were able to complete the last step, but the scripting felt 
+	much poorer than the other steps, 
+	as far as modularity and constructing useful functions.
+--Finding the balance between making a modular program and a 
+	quick script to graph the steps,
+	was the most difficult part of the assignment.
+--We also used barplots to try to convey histograms, because 
+	it was far easier to work into the code.
+	And we wanted to use our own custom frequencies/count format.
+
+Assumptions:
+--While writing the scripts we attempted to assumed that each 
+	function should try to be written
+	as a general case (for reuse)
